@@ -12,6 +12,11 @@ version     = "1.0.1"
 dropbox = "^11.36.2"
 python  = "^3.11.0"
 
+[tool.poetry.group.dev.dependencies]
+hypothesis = "^6.87.0"
+kfslog     = "^1.0.0"
+pytest     = "^7.4.2"
+
 [build-system]
 build-backend = "poetry.core.masonry.api"
 requires      = ["poetry-core"]
