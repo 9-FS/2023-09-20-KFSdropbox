@@ -5,7 +5,7 @@ license     = "MIT"
 name        = "KFSdropbox"
 packages    = [{ include = "KFSdropbox" }]
 readme      = "readme.md"
-repository  = "https://github.com/9-FS/2023-09-20-KFSdropbox-Library"
+repository  = "https://github.com/9-FS/2023-09-20-KFSdropbox"
 version     = "1.0.1"
 
 [tool.poetry.dependencies]
